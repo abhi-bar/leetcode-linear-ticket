@@ -1,5 +1,10 @@
 Notes for setup
 
+Node:
+1. npm install dotenv googleapis @google-cloud/local-auth
+
+
+General
 1. Google Project (To access sheet)
     a.Go to the Google Cloud Console.
     b.Create a project.
