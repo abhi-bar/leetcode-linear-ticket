@@ -1,0 +1,4 @@
+// Ignore important env files
+*.env
+credentials.json
+token.json
